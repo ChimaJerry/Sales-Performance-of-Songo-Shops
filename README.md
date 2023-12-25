@@ -25,7 +25,6 @@ This is an ETL project on the data set of Songo chains of retail shop to gather 
 The selected data set was gotten online from Kaggle [here](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset/discussion?select=retail_sales_dataset.csv)
 
 
-
 ### Data Cleaning and Preparation
 
  In the initial phase of the data cleaning the following tasks were performed;
