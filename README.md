@@ -3,7 +3,13 @@ This is an ETL project on the data set of Songo chains of retail shop to gather 
 
 ### Table of Content
 - [Project Overview](#project-overview)
+- [Skills Used](#skills-used)
+- [Data Source](#data-source)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
 - [Results and Findings](#results-and-findings)
+- [Recommendation](#recommendation)
 
 ### Project Overview
  The dataset is a synthetic data of purchases in a retail shop that reflects happenings in a real-world scenario. The data has been carefully crafted to reflect the  demography of customers and purchase pattern in a retail shop.  It is a sample of 1000 transactions that customers have made with a retail shop between January 2023 – January 2024.
