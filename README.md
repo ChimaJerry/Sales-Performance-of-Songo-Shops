@@ -10,13 +10,15 @@ This is an ETL project on the data set of Songo chains of retail shop to gather 
 
 ### Skills Used
 
-### Data Sources
-The selected data set was gotten online from Kaggle [here](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset/discussion?select=retail_sales_dataset.csv)
-
 - Excel - Data Cleaning
 - SQL Server - Data Analysis
 - Power BI - Data Visulaization
 - RStudio - Some Data visualization unattainable with Power BI.
+  
+### Data Source
+The selected data set was gotten online from Kaggle [here](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset/discussion?select=retail_sales_dataset.csv)
+
+
 
 ### Data Cleaning and Preparation
 
@@ -25,14 +27,14 @@ The selected data set was gotten online from Kaggle [here](https://www.kaggle.co
 - Duplicate or missing values was checked
 - Data cleaning and formatting
 
-### Explorarory Data Analysis
+### Exploratory Data Analysis
 Exploratory data analysis was conducted to understand the data structure, data types,  and descriptive summary statistics conducted to better understand the dataset.  For this data set the transaction ID and Customer ID was identified as the possible unique feature or primary key of the data set. Went ahead to using advance data analysis feature of excel to get an insight into some summary of the numerical data in the data set. This analysois intends to knpow the following from the dataset.
-1. Month with the highest sales
-2. Product category sold the most and least
-3. total quantity sold in each time
-4. total revenue generated from sales
-5. average age of most shoppers
-6. which gender purchase a given product the most
+1. Month with the highest sales.
+2. Product category sold the most and least.
+3. Total quantity sold in each month.
+4. Total revenue generated from sales.
+5. Average age of most shoppers.
+6. Which gender purchase a given product the most.
 7. Which product was purchased the most by specific male and female gender.
 
 ### DATA Analysis
