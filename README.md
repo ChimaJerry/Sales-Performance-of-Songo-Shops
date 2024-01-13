@@ -1,4 +1,4 @@
-# Sales Analysis
+# Sales-Analysis-SQL
 This is an ETL project on the data set of Songo chains of retail shop to gather insight into her business activities to enhance decision making
 
 ### Table of Content
